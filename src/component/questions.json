@@ -1,0 +1,450 @@
+[
+  {
+    "question": "Who was the first person in space",
+    "optionA": "Nelson Mandela",
+    "optionB": "Nelson Armstrong",
+    "optionC": "Neil Armstrong",
+    "optionD": "Yuri Gagarin",
+    "answer": "Yuri Gagarin"
+  },
+
+  {
+    "question": "What is the 7th planet of the solar system?",
+    "optionA": "Uranus",
+    "optionB": "Uranium",
+    "optionC": "Urnan",
+    "optionD": "Nelson Armstrong",
+    "answer": "Uranus"
+  },
+
+  {
+    "question": "Who invented the light bulb?",
+    "optionA": "Thomas Edison",
+    "optionB": "Albert Einstein",
+    "optionC": "Neslson Armstrong",
+    "optionD": "Enzo Ferrari",
+    "answer": "Thomas Edison"
+  },
+
+  {
+    "question": "What temperature does water boil at?",
+    "optionA": "50 degrees Celcius",
+    "optionB": "150 degrees Celcius",
+    "optionC": "100 degrees Celcius",
+    "optionD": "Nelson Armstrong",
+    "answer": "100 degrees Celcius"
+  },
+
+  {
+    "question": "What is the name of the toy cowboy in Toy Story?",
+    "optionA": "Woody",
+    "optionB": "Woodpecker",
+    "optionC": "Mickey-g the Mouse",
+    "optionD": "Nelson Armstrong",
+    "answer": "Woody"
+  },
+
+  {
+    "question": "What is the highest-grossing film of all time?",
+    "optionA": "Secret Life of Nelson Armstrong",
+    "optionB": "Dragonballs: Goku Goes to School",
+    "optionC": "Avengers: Endgame",
+    "optionD": "Wizards of Booze",
+    "answer": "Avengers: Endgame"
+  },
+
+  {
+    "question": "J. R. R. Tolkien is famous for which literature work?",
+    "optionA": "Star Trek",
+    "optionB": "Lord of the Rings",
+    "optionC": "Nelson Armstrong's Travel",
+    "optionD": "The Great Gatsby",
+    "answer": "Lord of the Rings"
+  },
+
+  {
+    "question": "What is the world's longest river?",
+    "optionA": "Nile River",
+    "optionB": "Amazon River",
+    "optionC": "Yangtze River",
+    "optionD": "Oberon River",
+    "answer": "Nile River"
+  },
+
+  {
+    "question": "Which galaxy is the closest to ours?",
+    "optionA": "Milky Way Galaxy",
+    "optionB": "Armstrong Galaxy",
+    "optionC": "Evil Eye Galaxy",
+    "optionD": "Andromeda Galaxy",
+    "answer": "Andromeda Galaxy"
+  },
+
+  {
+    "question": "Who painted the Mona Lisa?",
+    "optionA": "Masashi Kishimoto",
+    "optionB": "Twitter artist",
+    "optionC": "Leonardo Da Vinci",
+    "optionD": "Nelson Armstrong",
+    "answer": "Leonardo Da Vinci"
+  },
+
+  {
+    "question": "Billie Jean is a popular song made by who?",
+    "optionA": "Michael Jordan",
+    "optionB": "John Lemon",
+    "optionC": "Nelson Armstrong",
+    "optionD": "Michael Jackson",
+    "answer": "Michael Jackson"
+  },
+
+  {
+    "question": "In which country does adding pinnaples on a Pizza is considered a violation of the highest degree?",
+    "optionA": "Germany",
+    "optionB": "United States",
+    "optionC": "Italy",
+    "optionD": "Canada",
+    "answer": "Italy"
+  },
+
+  {
+    "question": "The game of Football/Soccer is coming to Rome, but which country does it originate from?",
+    "optionA": "Italy",
+    "optionB": "England",
+    "optionC": "Brazil",
+    "optionD": "NA",
+    "answer": "NA"
+  },
+
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "optionA": "Marie Curie",
+    "optionB": "Mariah Carey",
+    "optionC": "Nelsonia Armstrong",
+    "optionD": "Marie Antoinette",
+    "answer": "Marie Curie"
+  },
+
+  {
+    "question": "Finally, what was the real treassure?",
+    "optionA": "The friends we made along the way",
+    "optionB": "You didn't need the treasure,\n the treasure was inside you all along",
+    "optionC": "It's not the destination that matters, but the journey you took to get there",
+    "optionD": "Nelson Armstrong",
+    "answer": "Nelson Armstrong"
+  },
+
+  {
+    "question": "What is the scientific name of a butterfly?",
+    "optionA": "Apis",
+    "optionB": "Coleoptera",
+    "optionC": "Formicidae",
+    "optionD": "Rhopalocera",
+    "answer": "Rhopalocera"
+  },
+  {
+    "question": "How hot is the surface of the sun?",
+    "optionA": "1,233 K",
+    "optionB": "5,778 K",
+    "optionC": "12,130 K",
+    "optionD": "101,300 K",
+    "answer": "5,778 K"
+  },
+
+  {
+    "question": "When did waorld war II started?",
+
+    "optionA": "1939",
+    "optionB": "1938",
+    "optionC": "1941",
+    "optionD": "1934",
+    "answer": "1939"
+  },
+  {
+    "question": "What is the capital of Spain?",
+
+    "optionA": "Berlin",
+    "optionB": "Buenos Aires",
+    "optionC": "Madrid",
+    "optionD": "San Juan",
+    "answer": "Buenos Aires"
+  },
+  {
+    "question": "What are the school colors of the University of Texas at Austin?",
+
+    "optionA": "Black, Red",
+    "optionB": "Blue, Orange",
+    "optionC": "White, Burnt Orange",
+    "optionD": "White, Old gold, Gold",
+    "answer": "White, Burnt Orange"
+  },
+  {
+    "question": "What is 70 degrees Fahrenheit in Celsius?",
+    "optionA": "18.8889",
+    "optionB": "20",
+    "optionC": "21.1111",
+    "optionD": "158",
+    "answer": "21.1111"
+  },
+  {
+    "question": "When was Mahatma Gandhi born?",
+
+    "optionA": "October 2, 1869",
+    "optionB": "December 15, 1872",
+    "optionC": "July 18, 1918",
+    "optionD": "January 15, 1929",
+    "answer": "October 2, 1869"
+  },
+  {
+    "question": "How far is the moon from Earth?",
+
+    "optionA": "7,918 miles (12,742 km)",
+    "optionB": "86,881 miles (139,822 km)",
+    "optionC": "238,400 miles (384,400 km)",
+    "optionD": "35,980,000 miles (57,910,000 km)",
+    "answer": "238,400 miles (384,400 km)"
+  },
+  {
+    "question": "What is 65 times 52?",
+
+    "optionA": "117",
+    "optionB": "3120",
+    "optionC": "3380",
+    "optionD": "3520",
+    "answer": "3380"
+  },
+  {
+    "question": "How tall is Mount Everest?",
+
+    "optionA": "6,683 ft (2,037 m)",
+    "optionB": "7,918 ft (2,413 m)",
+    "optionC": "19,341 ft (5,895 m)",
+    "optionD": "29,029 ft (8,847 m)",
+    "answer": "29,029 ft (8,847 m)"
+  },
+  {
+    "question": "When did The Avengers come out?",
+
+    "optionA": "May 2, 2008",
+    "optionB": "May 4, 2012",
+    "optionC": "May 3, 2013",
+    "optionD": "April 4, 2014",
+    "answer": "May 4, 2012"
+  },
+  {
+    "question": "What is 48,879 in hexidecimal?",
+
+    "optionA": "0x18C1",
+    "optionB": "0xBEEF",
+    "optionC": "0xDEAD",
+    "optionD": "0x12D591",
+    "answer": "0xBEEF"
+  },
+  {
+    "question": "The ancient Roman god of war was commonly known as which of the following?",
+
+    "optionA": "Mars",
+    "optionB": "Jupiter",
+    "optionC": "Juno",
+    "optionD": "Ares",
+    "answer": "Mars"
+  },
+  {
+    "question": "Who was the mascot of SEGA before :Sonic the Hedgehog?",
+
+    "optionA": "Alex Kidd",
+    "optionB": "Opa Opa",
+    "optionC": "NiGHTS",
+    "optionD": "Ristar",
+    "answer": "Alex Kidd"
+  },
+  {
+    "question": "What part of an automobile engine uses lobes to open and close intake and exhaust valves, and allows an air\/fuel mixture into the engine?",
+
+    "optionA": "Camshaft",
+    "optionB": "Piston",
+    "optionC": "Drive shaft",
+    "optionD": "Crankshaft",
+    "answer": "Camshaft"
+  },
+  {
+    "question": "Which of his six wives was Henry VIII married to the longest?",
+
+    "optionA": "Catherine of Aragon",
+    "optionB": "Anne Boleyn",
+    "optionC": "Jane Seymour",
+    "optionD": "Catherine Parr",
+    "answer": "Anne Boleyn"
+  },
+  {
+    "question": "Which of the following James Bond villains is not affiliated with the SPECTRE organization?",
+
+    "optionA": "Auric Goldfinger",
+    "optionB": "Dr. Julius No",
+    "optionC": "Rosa Klebb",
+    "optionD": "Emilio Largo",
+    "answer": "Auric Goldfinger"
+  },
+  {
+    "question": "What did the name of the Tor Anonymity Network orignially stand for?",
+
+    "optionA": "The Onion Router",
+    "optionB": "The Only Router",
+    "optionC": "The Orange Router",
+    "optionD": "The Ominous Router",
+    "answer": "The Onion Router"
+  },
+  {
+    "question": "Which of the following movies was not based on a novel by Stephen King?",
+
+    "optionA": "The Thing",
+    "optionB": "The Green Mile",
+    "optionC": "Misery",
+    "optionD": "Carrie",
+    "answer": "The Thing"
+  },
+  {
+    "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+
+    "optionA": "Key",
+    "optionB": "Sword",
+    "optionC": "Pen",
+    "optionD": "Cellphone",
+    "answer": "Key"
+  },
+  {
+    "question": "What does a funambulist walk on?",
+
+    "optionA": "A Tight Rope",
+    "optionB": "Broken Glass",
+    "optionC": "Balls",
+    "optionD": "The Moon",
+    "answer": "A Tight Rope"
+  },
+  {
+    "question": "What is 48,879 in hexidecimal?",
+
+    "optionA": "0x18C1",
+    "optionB": "0xBEEF",
+    "optionC": "0xDEAD",
+    "optionD": "0x12D591",
+    "answer": "0xBEEF"
+  },
+  {
+    "question": "What is the most expensive weapon in Counter-Strike: Global Offensive?",
+
+    "optionA": "Scar-20\/G3SG1",
+    "optionB": "M4A1",
+    "optionC": "AWP",
+    "optionD": "R8 Revolver",
+    "answer": "Scar-20\/G3SG1"
+  },
+  {
+    "question": "Who is the star of the AMC series Breaking Bad?",
+
+    "optionA": "Walter White",
+    "optionB": "Saul Goodman",
+    "optionC": "Jesse Pinkman",
+    "optionD": "Skyler White",
+    "answer": "Walter White"
+  },
+  {
+    "question": "What is 48,879 in hexidecimal?",
+
+    "optionA": "0x18C1",
+    "optionB": "0xBEEF",
+    "optionC": "0xDEAD",
+    "optionD": "0x12D591",
+    "answer": "0xBEEF"
+  },
+  {
+    "question": "In the game Half-Life, which enemy is showcased as the final boss?",
+
+    "optionA": "The Nihilanth",
+    "optionB": "Dr. Wallace Breen",
+    "optionC": "G-Man",
+    "optionD": "The Gonarch",
+    "answer": "The Nihilanth"
+  },
+  {
+    "question": "Which artist released the 2012 single Harlem Shake, which was used in numerous YouTube videos in 2013?",
+
+    "optionA": "RL Grime",
+    "optionB": "NGHTMRE",
+    "optionC": "Flosstradamus",
+    "optionD": "Baauer",
+    "answer": "Baauer"
+  },
+  {
+    "question": "Who is the lead singer of Green Day?",
+
+    "optionA": "Billie Joe Armstrong",
+    "optionB": "Mike Dirnt",
+    "optionC": "Sean Hughes",
+    "optionD": "Tr&eacute; Cool",
+    "answer": "Billie Joe Armstrong"
+  },
+  {
+    "question": "Who plays the character of Po in the Kung Fu Panda movies?",
+
+    "optionA": "Jack Black",
+    "optionB": "Mirana Jonnes",
+    "optionC": "McConahey Ramses",
+    "optionD": "Jim Petersson",
+    "answer": "Jack Black"
+  },
+  {
+    "question": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+
+    "optionA": "The Polish President",
+    "optionB": "Pope John Paul II",
+    "optionC": "Bang-Ding Ow",
+    "optionD": "Albert Putin",
+    "answer": "The Polish President"
+  },
+  {
+    "question": "What was the first ever London Underground line to be built?",
+
+    "optionA": "Metropolitan Line",
+    "optionB": "Circle Line",
+    "optionC": "Bakerloo Line",
+    "optionD": "Victoria Line",
+    "answer": "Metropolitan Line"
+  },
+  {
+    "question": "The two main characters of &quot;No Game No Life&quot;, Sora and Shiro, together go by what name?",
+
+    "optionA": "Blank",
+    "optionB": "Immanity",
+    "optionC": "Disboard",
+    "optionD": "Warbeasts",
+    "answer": "Blank"
+  },
+  {
+    "question": "What was the release date of Grand Theft Auto IV?",
+
+    "optionA": "April 29, 2008",
+    "optionB": "May 21, 2009",
+    "optionC": "June 22, 2010",
+    "optionD": "july 28, 2008",
+    "answer": "April 29, 2008"
+  },
+  {
+    "question": "Which small country is located between the borders of France and Spain?",
+
+    "optionA": "Andorra",
+    "optionB": "San Marino",
+    "optionC": "Vatican City",
+    "optionD": "Lichtenstein",
+    "answer": "Andorra"
+  },
+  {
+    "question": "The HBO series Game of Thrones is based on which series of books?",
+
+    "optionA": "A Song of Ice and Fire",
+    "optionB": "The Wheel of Time",
+    "optionC": "Harry Potter",
+    "optionD": "The Notebook",
+    "answer": "A Song of Ice and Fire"
+  }
+]
